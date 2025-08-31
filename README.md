@@ -1,46 +1,95 @@
-# Hi there, I'm Pugazhenthi Muthu] 👋
-
-### ☁️ DevOps | SRE | Cloud Engineer
-
-I'm a passionate DevOps engineer with ~2 years of experience in building, automating, and maintaining robust and scalable cloud infrastructure. I thrive on streamlining development workflows and ensuring high system availability through Infrastructure as Code (IaC), CI/CD, and proactive monitoring.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Cloud Providers:** AWS | Azure | GCP
-**Infrastructure as Code:** Terraform | AWS CloudFormation
-**CI/CD & Automation:** Jenkins | GitHub Actions | GitLab CI | ArgoCD
-**Containerization & Orchestration:** Docker | Kubernetes | Helm | EKS/AKS/GKE
-**Configuration Management:** Ansible | Chef | Puppet
-**Scripting & Languages:** Bash | Python | Groovy | YAML | HCL
-**Monitoring & Logging:** Prometheus | Grafana | ELK Stack | Datadog | Nagios
-**Operating Systems:** Linux (Ubuntu, RHEL/CentOS) | Windows Server
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">A Passionate DevOps Engineer from [Your Location]</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
-### 📂 Highlighted Projects
+### 👨‍💻 About Me
 
-Here are a few projects that demonstrate my skills:
+I'm a DevOps Engineer with ~2 years of experience in the trenches, automating infrastructure and building resilient systems on the cloud. I live by the mantra: **"If it's manual, automate it. If it's automated, monitor it."**
 
-*   **[End-to-End CI/CD Pipeline](https://github.com/yourusername/cicd-pipeline)**: A automated pipeline using Jenkins, Docker, and Kubernetes to build, test, and deploy a sample application.
-*   **[Terraformed AWS Infrastructure](https://github.com/yourusername/terraform-aws-vpc)**: A production-like multi-tier AWS VPC with public/private subnets, NAT Gateway, and security groups, fully defined in Terraform.
-*   **[Kubernetes Cluster Setup & Application Deployment](https://github.com/yourusername/k8s-helm-deployment)**: Automated scripts and Helm charts to bootstrap a K8s cluster (on AWS EKS or locally with kubeadm) and deploy applications.
-*   **[Serverless Application](https://github.com/yourusername/serverless-app)**: A simple API built with AWS Lambda, API Gateway, and DynamoDB, deployed using the Serverless Framework or Terraform.
-
----
-
-### 📈 GitHub Stats
-
-(You can add dynamic stats later using services like https://github.com/anuraghazra/github-readme-stats)
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+- 🔭 I’m currently working on **building a scalable, multi-cloud Kubernetes cluster**
+- 🌱 I’m currently learning **Go and advancing my Kubernetes security (CKS) skills**
+- 👯 I’m looking to collaborate on **open-source DevOps tools**
+- 💬 Ask me about **Terraform, Kubernetes, AWS, and CI/CD**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
-### 📫 How to Reach Me
+### 🚀 My Tech Stack
 
-*   LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)
-*   Email: youremail@domain.com
-*   Blog: [Your Personal Blog/Dev.to/Hashnode URL](https://yourblog.com)
+#### **☁️ Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet) <!-- Shows profile view count -->
+#### **🛠️ Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### **🐳 Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+#### **⚙️ CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+#### **📊 Monitoring & Logging**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+---
+
+### 📌 Pinned Repositories
+
+Here's a glimpse of the projects I'm most proud of:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=terraform-aws-eks&theme=radical)](https://github.com/yourusername/terraform-aws-eks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=jenkins-cicd-pipeline&theme=radical)](https://github.com/yourusername/jenkins-cicd-pipeline)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=k8s-helm-monitoring&theme=radical)](https://github.com/yourusername/k8s-helm-monitoring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=serverless-app&theme=radical)](https://github.com/yourusername/serverless-app)
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<!-- Dynamic GitHub Stats -->
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
+
+<!-- GitHub Streak Stats - shows your contribution consistency -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+<!-- Trophy Stats - makes your profile look achieved -->
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1)
+
+<!-- A fun fact to make it personal -->
+![Alt](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id) <!-- Optional: Spotify recent track -->
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- This section pulls your latest blog posts automatically. You can use Dev.to, Hashnode, or Medium's RSS feed. -->
+<!-- Example for Dev.to: -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Let's connect and automate the world together!</i> 😊
+</p>
