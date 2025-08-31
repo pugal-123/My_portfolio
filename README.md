@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm [Your Name]</h1>
-<h3 align="center">DevOps & Infrastructure Engineer | Master of Automation</h3>
+<h3 align="center">DevOps Engineer | Building & Automating Secure Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
@@ -8,69 +8,68 @@
   <a href="mailto:youremail@domain.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-resume-site.com">
-    <img src="https://img.shields.io/badge/📄-Resume-8A2BE2?style=for-the-badge" />
-  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a DevOps engineer with a strong foundation in end-to-end automation, from infrastructure provisioning to application deployment and monitoring. I specialize in creating secure, scalable, and efficient systems by leveraging the right tools for the job.
+I'm a DevOps engineer passionate about building robust, automated infrastructure. I have a strong foundation in core DevOps principles and I'm actively expanding my expertise into cloud platforms and advanced scripting. I'm a quick learner focused on delivering practical, secure, and efficient solutions.
 
-**My Philosophy:** Automate relentlessly, document meticulously, and always design with security and cost in mind.
+**My Motto:** Learn continuously, automate intelligently, and always leave the system better than you found it.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Proficiency
+
+I leverage a powerful toolkit to solve problems across the entire application lifecycle:
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Proficient-0078D4?logo=microsoft-azure&logoColor=white) |
-| **🐳 Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-326CE5?logo=kubernetes&logoColor=white) |
-| **⚙️ Configuration Management** | ![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?logo=ansible&logoColor=white) ![SaltStack](https://img.shields.io/badge/SaltStack-Experienced-00A0DF?logo=saltstack&logoColor=white) |
-| **🛠️ CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-Expert-D24939?logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Experienced-2088FF?logo=githubactions&logoColor=white) |
-| **📜 Scripting & Languages** | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white) |
-| **🔐 Security & Networking** | ![Nmap](https://img.shields.io/badge/Nmap-Skilled-4EAA25?logo=networking&logoColor=white) `Security Hardening` `VPC/NSG` |
-| **📊 Monitoring & Visualization** | ![Grafana](https://img.shields.io/badge/Grafana-Proficient-F46800?logo=grafana&logoColor=white) `Prometheus` `CloudWatch` |
+| **⚙️ Configuration & Automation** | ![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?logo=ansible&logoColor=white) ![SaltStack](https://img.shields.io/badge/SaltStack-Experienced-00A0DF?logo=saltstack&logoColor=white) |
+| **🐳 Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Working_Knowledge-326CE5?logo=kubernetes&logoColor=white) |
+| **🛠️ CI/CD & Pipelines** | ![Jenkins](https://img.shields.io/badge/Jenkins-Expert-D24939?logo=jenkins&logoColor=white) |
+| **📜 Scripting & Languages** | ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white) |
+| **🔐 Security & Networking** | ![Nmap](https://img.shields.io/badge/Nmap-Skilled-4EAA25?logo=networking&logoColor=white) `Security Hardening` |
+| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-Working_Knowledge-FF9900?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Working_Knowledge-0078D4?logo=microsoft-azure&logoColor=white) |
+| **📊 Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-Proficient-F46800?logo=grafana&logoColor=white) |
 
 ---
 
-### 🚀 Portfolio Projects
+### 🚀 Hands-On Projects
 
-Here’s how I combine my skills to build real-world solutions:
+Here’s how I apply my skills in practice. Each project is designed to deepen my understanding of cloud and automation:
 
-| | Project | Description | Key Technologies |
-| :--- | :--- | :--- | :--- |
-| 🔐 | **[Infrastructure Hardening Suite](https://github.com/yourusername/iac-hardening)** | Ansible playbooks & Salt states to automate CIS benchmarking and security hardening for AWS EC2 and Kubernetes nodes. | `Ansible` `SaltStack` `Bash` `Nmap` (for validation) |
-| ☁️ | **[Multi-Cloud K8s Cluster](https://github.com/yourusername/multi-cloud-k8s)** | Terraform code to provision EKS (AWS) and AKS (Azure) clusters, with a unified deployment pipeline using Jenkins. | `Terraform` `AWS` `Azure` `Kubernetes` `Jenkins` |
-| ⚙️ | **[Python App CI/CD Pipeline](https://github.com/yourusername/python-app-pipeline)** | A complete pipeline that builds a Docker container, runs security scans, deploys to K8s, and updates a Grafana dashboard. | `Python` `Docker` `Kubernetes` `Jenkins` `Grafana` |
-| 🚨 | **[K8s Security Monitor](https://github.com/yourusername/k8s-security-scan)** | A Python script that periodically scans K8s cluster for misconfigurations and vulnerabilities, reporting to Slack. | `Python` `Kubernetes` `Bash` |
-
----
-
-### 📈 What I Bring to the Table
-
-*   **Security-First Mindset:** From using `nmap` for network validation to writing Ansible playbooks for CIS compliance.
-*   **Tool Agnosticism:** Ability to use the best tool for the task, whether it's Ansible for agentless simplicity or SaltStack for speed at scale.
-*   **Automation Expertise:** I don't just use tools; I weave them together into automated workflows that reduce toil.
-*   **Full-Stack DevOps:** Comfortable working from the infrastructure layer (cloud networking) up to the application layer (scripting, monitoring).
+| | Project | Description | Key Technologies | Learning Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| 🔐 | **["Lift & Shift" Infrastructure Automation](https://github.com/yourusername/ansible-aws-hardening)** | Ansible playbooks to provision EC2 instances and automatically apply CIS security benchmarks. | `Ansible` `AWS (EC2, IAM)` `Bash` | **AWS Core Services, IaC** |
+| ⚙️ | **[Hybrid Cloud Web App Deployment](https://github.com/yourusername/jenkins-azure-pipeline)** | A Jenkins pipeline that builds a Dockerized Python app and deploys it to an Azure VM. | `Jenkins` `Docker` `Azure VM` `Python` | **Azure Compute, CI/CD** |
+| 📊 | **[Container Monitoring Stack](https://github.com/yourusername/docker-monitoring-stack)** | A Docker Compose setup for Prometheus and Grafana to monitor containerized applications. | `Docker` `Grafana` `Prometheus` | **Monitoring, Docker Networking** |
+| 🐍 | **[Python CLI for Resource Tracking](https://github.com/yourusername/cloud-resource-tracker)** | A Python script using Boto3 and Azure SDK to list and tag resources across AWS & Azure. | `Python` `Boto3` `Azure SDK` `Bash` | **Cloud APIs, Python** |
 
 ---
 
-### 📫 Let's Connect!
+### 🌱 What I'm Exploring Next
 
-I'm always interested in discussing innovative technology, automation challenges, and new opportunities.
+I believe in continuous growth. My current learning priorities are:
+*   Deep diving into **Terraform** for advanced multi-cloud Infrastructure as Code.
+*   Mastering **Kubernetes operations** and service mesh technologies like Istio.
+*   Obtaining the **AWS Solutions Architect Associate** certification.
 
-- **LinkedIn:** [Let's connect professionally](https://linkedin.com/in/yourprofile)
-- **Email:** [Send me a message](mailto:youremail@domain.com)
-- **GitHub:** You're already here! Check out my projects above.
+---
+
+### 📫 Let's Talk!
+
+I am eager to connect with professionals, contribute to innovative projects, and continue my learning journey in a collaborative environment.
+
+- **LinkedIn:** [Let's connect!](https://linkedin.com/in/yourprofile)
+- **Email:** [youremail@domain.com](mailto:youremail@domain.com)
+- **GitHub:** You're already here! Feel free to explore my code and provide feedback.
 
 ---
 
 <p align="center">
-  <i>“The art of simplicity is a puzzle of complexity.”</i> – Douglas Horton
+  <i>“The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.”</i> – Brian Herbert
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat" alt="Profile Views" />
