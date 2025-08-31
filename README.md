@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm [Your Name]</h1>
+<h1 align="center">Hello World! 👋, I'm Pugazhenthi Muthu</h1>
 <h3 align="center">DevOps Engineer | Building & Automating Secure Systems</h3>
 
 <p align="center">
@@ -63,7 +63,7 @@ I believe in continuous growth. My current learning priorities are:
 I am eager to connect with professionals, contribute to innovative projects, and continue my learning journey in a collaborative environment.
 
 - **LinkedIn:** [Let's connect!](https://linkedin.com/in/yourprofile)
-- **Email:** [youremail@domain.com](mailto:youremail@domain.com)
+- **Email:** [muthupugal3@gmail.com](mailto:muthupugal3@gmail.com)
 - **GitHub:** You're already here! Feel free to explore my code and provide feedback.
 
 ---
