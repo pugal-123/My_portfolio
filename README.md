@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate DevOps Engineer from [Your Location]</h3>
+<h1 align="center">Hi there 👋, I'm Pugazhenthi Muthu</h1>
+<h3 align="center">A Passionate DevOps Engineer from Bangalore</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
