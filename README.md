@@ -1,95 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Pugazhenthi Muthu</h1>
-<h3 align="center">A Passionate DevOps Engineer from Bangalore</h3>
+<h1 align="center">Hello World! 👋, I'm [Your Name]</h1>
+<h3 align="center">DevOps Engineer | Automating Cloud & Infrastructure</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pugazhenthi-muthu-5b00a01a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:muthupugal3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@domain.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.site"> <!-- Optional link to a website if you have one -->
+    <img src="https://img.shields.io/badge/🌐-Personal_Portfolio-8A2BE2?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-I'm a DevOps Engineer with ~2 years of experience in the trenches, automating infrastructure and building resilient systems on the cloud. I live by the mantra: **"If it's manual, automate it. If it's automated, monitor it."**
+I'm a DevOps Engineer with a passion for building robust, scalable, and automated systems on the cloud. I believe in the power of **Infrastructure as Code** and **CI/CD** to solve real-world problems.
 
-- 🔭 I’m currently working on **building a scalable, multi-cloud Kubernetes cluster**
-- 🌱 I’m currently learning **Go and advancing my Kubernetes security (CKS) skills**
-- 👯 I’m looking to collaborate on **open-source DevOps tools**
-- 💬 Ask me about **Terraform, Kubernetes, AWS, and CI/CD**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-
----
-
-### 🚀 My Tech Stack
-
-#### **☁️ Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-#### **🛠️ Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### **🐳 Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-#### **⚙️ CI/CD & Automation**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-#### **📊 Monitoring & Logging**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+- 🔭 I’m currently sharpening my skills by building projects with **Terraform, Kubernetes, and AWS**.
+- 🌱 I’m deeply learning **Kubernetes internals and Golang**.
+- 👯 I’m looking to collaborate on **open-source DevOps tools**.
+- 🎯 **Goal:** To contribute to meaningful projects and learn from the community.
+- ⚡ Fun fact: I can explain the DevOps lifecycle using only pizza analogies! 🍕
 
 ---
 
-### 📌 Pinned Repositories
+### 🛠️ My DevOps Toolkit
 
-Here's a glimpse of the projects I'm most proud of:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=terraform-aws-eks&theme=radical)](https://github.com/yourusername/terraform-aws-eks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=jenkins-cicd-pipeline&theme=radical)](https://github.com/yourusername/jenkins-cicd-pipeline)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=k8s-helm-monitoring&theme=radical)](https://github.com/yourusername/k8s-helm-monitoring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=serverless-app&theme=radical)](https://github.com/yourusername/serverless-app)
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<!-- Dynamic GitHub Stats -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
-
-<!-- GitHub Streak Stats - shows your contribution consistency -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
-<!-- Trophy Stats - makes your profile look achieved -->
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1)
-
-<!-- A fun fact to make it personal -->
-![Alt](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id) <!-- Optional: Spotify recent track -->
+| **Category**           | **Technologies**                                                                                                                                                                                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)                                                                                                          |
+| **🐳 Containers**      | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)                                                                                                  |
+| **🛠️ IaC & CI/CD**    | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) |
+| **📜 Scripting**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)                                                                                                                |
 
 ---
 
-### ✍️ Latest Blog Posts
+### 🚀 Featured Projects
 
-<!-- This section pulls your latest blog posts automatically. You can use Dev.to, Hashnode, or Medium's RSS feed. -->
-<!-- Example for Dev.to: -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Here's a hands-on look at the systems I've built. Each project includes detailed documentation and code.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[☁️ Terraformed AWS VPC](https://github.com/yourusername/terraform-aws-vpc)** | A production-ready modular VPC with public & private subnets, NAT Gateway, and security groups. | `Terraform` `AWS` |
+| **[⚙️ Jenkins CI/CD Pipeline](https://github.com/yourusername/jenkins-cicd-pipeline)** | An automated pipeline to build, test, scan, and deploy a Dockerized app to Kubernetes. | `Jenkins` `Docker` `K8s` `Trivy` |
+| **[📦 Kubernetes Bootstrapper](https://github.com/yourusername/k8s-bootstrap)** | Bash scripts to automate the setup of a K3s cluster and deploy a sample app with Helm. | `Bash` `K3s` `Helm` |
+| **[🔐 Secure S3 CloudFront](https://github.com/yourusername/terraform-s3-cf)** | Terraform code to deploy a private S3 bucket with a CloudFront distribution for a static website. | `Terraform` `AWS` `S3` `CloudFront` |
+
+---
+
+### 📝 Latest Blog Posts / Tutorials
+
+<!-- This section will be empty until you write a blog post. That's okay! -->
+- [How I Built a Cost-Effective DevOps Lab at Home](https://dev.to/yourusername/your-blog-post-title) *(Coming Soon!)*
+- [A Beginner's Guide to Terraform Modules](https://dev.to/yourusername/your-blog-post-title) *(Coming Soon!)*
+
+*I write to share my learning journey. Check back soon for articles!*
+
+---
+
+### 📫 How to Reach Me
+
+I'm always open to discussing technology, collaboration, or new opportunities.
+
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** [youremail@domain.com](mailto:youremail@domain.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <i>“The only way to do great work is to love what you do.”</i> – Steve Jobs
 </p>
-
 <p align="center">
-  <i>Let's connect and automate the world together!</i> 😊
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
