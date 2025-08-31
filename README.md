@@ -2,10 +2,10 @@
 <h3 align="center">DevOps Engineer | Building & Automating Secure Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/pugazhenthi-muthu-5b00a01a0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@domain.com">
+  <a href="mailto:muthupugal3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -62,7 +62,7 @@ I believe in continuous growth. My current learning priorities are:
 
 I am eager to connect with professionals, contribute to innovative projects, and continue my learning journey in a collaborative environment.
 
-- **LinkedIn:** [Let's connect!](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/pugazhenthi-muthu-5b00a01a0/)
 - **Email:** [muthupugal3@gmail.com](mailto:muthupugal3@gmail.com)
 - **GitHub:** You're already here! Feel free to explore my code and provide feedback.
 
